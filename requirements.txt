@@ -1,0 +1,5 @@
+osmnx==1.4.0
+geopandas
+shapely
+matplotlib
+geopy
