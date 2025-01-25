@@ -1,5 +1,4 @@
-# Chapel Hill Minimalistic Map Visualization
-
+# Creating minimalistic map using Open Street Map
 This project generates a minimalistic map of Chapel Hill, North Carolina, using OpenStreetMap data. The map highlights the street network within a specified radius, styled with a dark grey background and white streets. It serves as an example of geospatial data analysis and visualization using Python.
 
 ## Features
