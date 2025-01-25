@@ -68,11 +68,8 @@ This project demonstrates the following skills:
 - **Python Scripting:** Writing clean and reusable code for geospatial applications.
 - **Interactive Notebooks:** Providing an interactive environment for exploration and reproducibility.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for more information.
-
 ## Contributing
 Contributions are welcome! Feel free to fork the repository and submit a pull request for any improvements or suggestions.
 
 ## Contact
-For any questions or feedback, reach out via GitHub or email at `your-email@example.com`.
+For any questions or feedback, reach out via GitHub or email at `prabisha.shrestha@gmail.com`.
