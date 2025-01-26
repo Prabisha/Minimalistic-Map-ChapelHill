@@ -1,6 +1,11 @@
 # Creating minimalistic map using Open Street Map
 This project generates a minimalistic map of Chapel Hill, North Carolina, using OpenStreetMap data. The map highlights the street network within a specified radius, styled with a dark grey background and white streets. It serves as an example of geospatial data analysis and visualization using Python.
 
+## Example Output
+Below is an example of the generated map for Chapel Hill, NC:
+
+![Example Map](images/chapel_hill_map.png)
+
 ## Features
 - Fetches geospatial data from OpenStreetMap using OSMnx.
 - Processes and visualizes street network data with customizable styles.
@@ -54,11 +59,6 @@ pip install -r requirements.txt
    ```
 
 2. Run the cells interactively to explore the data and generate the map.
-
-## Example Output
-Below is an example of the generated map for Chapel Hill, NC:
-
-![Example Map](images/chapel_hill_map.png)
 
 ## About
 This project demonstrates the following skills:
